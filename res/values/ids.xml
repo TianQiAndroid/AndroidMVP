@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 根布局 -->
+    <item name="ll_root" type="id"/>
+    <item name="fl_root" type="id"/>
+    <!-- actionbar -->
+    <item name="rl_actionbar" type="id"/>
+    <item name="tv_actionbar_title" type="id"/>
+    <item name="rl_actionbar_left" type="id"/>
+    <item name="iv_actionbar_left" type="id"/>
+    <item name="rl_actionbar_right" type="id"/>
+    <item name="iv_actionbar_right" type="id"/>
+    <!-- load error or empty -->
+    <item name="bt_load_again" type="id"/>
+
+</resources>
